@@ -1,4 +1,3 @@
-# hello-world
-just a testing repository
+#Learning Repo for data strcutres to put code/docs/articles.
 
-Learning github, quite fun..I'm lovin it .
+Let's the fun Begin..
